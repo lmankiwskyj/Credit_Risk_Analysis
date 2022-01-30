@@ -27,3 +27,11 @@ Summary:
 
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+
+6 to >5.0 pts
+Demonstrating Proficiency
+The written analysis has ALL of the following: ✓There is a title, and there are multiple sections. ✓Each section has a heading and subheading. ✓There are images and references to code, and they are formatted and displayed correctly.
+
+24 to >20.0 pts
+Demonstrating Proficiency
+✓The purpose is well defined. ✓The balanced accuracy score and the precision and recall scores for ALL SIX algorithms are described. ✓The results are summarized, and there is a recommendation on which model to use or justification.
